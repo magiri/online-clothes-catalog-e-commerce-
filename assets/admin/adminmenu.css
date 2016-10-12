@@ -1,0 +1,79 @@
+h4, h5, h6,
+h1, h2, h3 {margin-top: 0;}
+ul, ol {margin: 0;}
+p {margin: 0;}
+html, body{
+    font-family: 'Open Sans', sans-serif;
+    /*font-size: 100%;*/
+    background: #00ccff;
+    /*width:100%;*/
+}
+#navbar{
+    background: #00356a;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+}
+#navbar li a{
+    /*float:left;*/
+    /*padding:8px 20px;*/
+    text-decoration:none;
+    text-transform:capitalize;
+    /*font-size:1em;*/ 
+    -webkit-transition: all 0.3s ease-in-out;
+    text-transform:uppercase;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    color:#fff;
+   
+   
+}
+#navbar ul{
+  background: #00356a;  
+}
+.navbar li{
+   border-left:1px #ffffff;  
+}
+.navbar li:hover a:hover{
+    background:#EF5F21;
+    color: #ffffff;
+}
+.navbar li a.color2:hover{
+    background:#589D3E;
+    color: #ffffff;
+}
+.navbar li a.color3:hover{
+    background:#00ACED;
+    color: #ffffff;
+}
+.navbar li a.color4:hover{
+    background:#D61F85;
+    color: #ffffff;
+}
+.navbar li a.color5:hover{
+    background:#F89F1B;
+    color: #ffffff;
+}
+.navbar li a.color6:hover{
+    background:#00677C;
+    color: #ffffff;
+}
+.navbar li a.color7:hover{
+    background:#D5331D;
+    color: #ffffff;
+}
+.navbar li a.color8:hover{
+    background:#00405d;
+    color: #ffffff;
+}
+.navbar li a.color9:hover{
+    background:#9CB43A;
+    color: #ffffff;
+}
+.navbar li a.color10:hover{
+    background:#26BC85;
+    color: #ffffff;
+}	
+.navbar-brand h3{
+    color:#fff !important;
+}

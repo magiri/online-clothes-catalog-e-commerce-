@@ -1,0 +1,128 @@
+@charset "UTF-8";
+
+/** 
+ * Default Advanced CSS Drop-Down Menu Theme
+ *
+ * @file		default.advanced.css
+ * @name		Default
+ * @version		0.1
+ * @type		transitional
+ * @browsers	Windows: IE7+, Opera9+, Firefox3+
+ *				Mac OS: Safari2+, Firefox3+
+ *
+ * @link		http://www.lwis.net/free-css-drop-down-menu
+ * @copyright	2009-2012 Live Web Initiatives, http://www.lwis.net
+ *
+ */
+ul.dropdown {
+    font: bold 35px/normal Arial, Helvetica, sans-serif;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+}
+
+ul.dropdown li {
+    padding: 0 10px;
+    background-color: transparent;
+    color: #000;
+}
+
+ul.dropdown li.hover,
+ul.dropdown li:hover {
+    background-color: #b0d730;
+    color: #000;
+}
+
+ul.dropdown a:link,
+ul.dropdown a:visited	{ color: #000; text-decoration: none; }
+ul.dropdown a:hover		{ color: #000; }
+ul.dropdown a:active	{ color: #ffa500; }
+
+/* -- level mark -- */
+
+ul.dropdown ul {
+    background-color: #b0d730;
+    font-size: 12px;
+    letter-spacing: normal;
+}
+
+ul.dropdown ul li {
+    font-weight: bold;
+}
+
+ul.dropdown li.last ul li {
+    float: right;
+}
+
+/* -- level mark -- */
+
+ul.dropdown ul ul {
+    margin-top: 5px;
+    text-transform: none;
+}
+
+ul.dropdown ul ul li {
+    font-weight: normal;
+}
+
+
+/* -- Supporting class `dir` -- */
+
+ul.dropdown *.dir {
+    padding-right: 30px;
+    background-image: url(../../../../images/lwis.celebrity/nav-arrow-down.png);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+}
+
+ul.dropdown ul *.dir {
+    background-image: none;
+}
+
+
+/* -- Base style extension -- */
+
+ul.dropdown li a {
+    display: block;
+    padding: 0 10px;
+}
+
+
+/* -- Base style override -- */
+
+ul.dropdown li {
+    padding: 0;
+}
+
+
+/* -- Base style reinitiate: post-override activities -- */
+
+ul.dropdown li.dir {
+    padding: 0 30px 0 10px;
+}
+
+ul.dropdown ul li.dir {
+    padding: 10px;
+}
+
+
+/* -- Custom styles -- */
+
+ul.dropdown ul {
+    padding: 0 10px;
+}
+
+ul.dropdown ul a {
+    width: 140px;
+    padding: 3px 5px;
+    background: url(../../../../images/lwis.celebrity/pattern2.png) 0 0 repeat-x;
+}
+
+ul.dropdown ul a:hover {
+    background-color: #ffa500;
+    color: #fff;
+}
+
+ul.dropdown ul ul {
+    padding: 0;
+    margin-left: -5px; 
+}

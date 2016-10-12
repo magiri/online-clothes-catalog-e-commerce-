@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-01-25 06:40:48 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:03:57 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:03:58 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:03:59 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:04:00 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:04:00 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:04:01 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:04:01 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 08:04:02 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:11 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:12 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:13 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:13 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:33 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:36 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:32:40 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 10:33:16 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 11:41:22 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 11:41:22 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 11:41:37 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 11:41:57 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 11:41:57 --> 404 Page Not Found --> custompage
+ERROR - 2016-01-25 21:42:55 --> 404 Page Not Found --> custompage

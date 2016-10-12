@@ -1,0 +1,270 @@
+.placeholder {
+    outline: 1px dashed #4183C4;
+    /*-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    margin: -1px;*/
+}
+
+.mjs-nestedSortable-error {
+    background: #fbe3e4;
+    border-color: transparent;
+}
+
+ol {
+    margin: 0;
+    padding: 0;
+    padding-left: 30px;
+}
+
+ol.sortable, ol.sortable ol {
+    margin: 0 0 0 25px;
+    padding: 0;
+    list-style-type: none;
+}
+
+ol.sortable {
+    margin: 4em 0;
+}
+
+.sortable li {
+    margin: 5px 0 0 0;
+    padding: 0;
+}
+
+.sortable li div  {
+    border: 1px solid #d4d4d4;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border-color: #D4D4D4 #D4D4D4 #BCBCBC;
+    padding: 6px;
+    margin: 0;
+    cursor: move;
+    background: #f6f6f6;
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #ededed 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(47%,#f6f6f6), color-stop(100%,#ededed));
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    background: -o-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    background: -ms-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    background: linear-gradient(to bottom,  #ffffff 0%,#f6f6f6 47%,#ededed 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed',GradientType=0 );
+}
+
+.sortable li.mjs-nestedSortable-branch div {
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #f0ece9 100%);
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#f0ece9 100%);
+
+}
+
+.sortable li.mjs-nestedSortable-leaf div {
+    background: -moz-linear-gradient(top,  #ffffff 0%, #f6f6f6 47%, #bcccbc 100%);
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#f6f6f6 47%,#bcccbc 100%);
+
+}
+
+li.mjs-nestedSortable-collapsed.mjs-nestedSortable-hovering div {
+    border-color: #999;
+    background: #fafafa;
+}
+
+.disclose {
+    cursor: pointer;
+    width: 10px;
+    display: none;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > ol {
+    display: none;
+}
+
+.sortable li.mjs-nestedSortable-branch > div > .disclose {
+    display: inline-block;
+}
+
+.sortable li.mjs-nestedSortable-collapsed > div > .disclose > span:before {
+    content: '+ ';
+}
+
+.sortable li.mjs-nestedSortable-expanded > div > .disclose > span:before {
+    content: '- ';
+}
+ul.nav li.dropdown:hover ul.dropdown-menu{
+    display: block;
+}
+/*****************************************************************************ADMIN BACKGROUND**************************************************************************/
+#adminbg
+{
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    font-size: 10pt;
+
+    /*background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;*/
+}
+/**************************************************************************ADMIN LEFT SIDEBAR*****************************************************************************/
+#navsidebar{
+    background:#E5E5E5; 
+    padding:0%;
+    margin-right: 0%;
+    margin-bottom:1%;
+
+    /*border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -o-linear-border-radius: 0.5em;
+    -ms-linear-border-radius:0.5em; */
+
+} 
+#navbarTop{
+    border:0;
+    width:100%;
+    padding:0px;
+    margin:0px;
+    background-color:#246BA8;
+}
+#adminHead{
+    margin-top:9%;
+    padding-left:57%;
+    color:#ffffff;
+    font-family: Papyrus, fantasy;
+    font-weight: bold;
+    font-size:21px;
+}
+/****************************start user image and online thing**************************/
+#navSidebarUser{
+    overflow: hidden;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+#navSidebarUser img{
+    float:left;
+    width:31%;
+    height: 31%;
+    margin-right: 7%;
+}
+#navSidebarUser p h4{
+    font-weight: bold;
+}
+/****************************end user image and online thing**************************/
+
+
+/****************************start of admin search**************************/
+#adminSearchContainer{
+    overflow: hidden;
+}
+#adminSearchContainer input[type="text"]{
+    //width:77%;
+}
+#adminSearchContainer input[type="submit"]{
+    //width:15%;
+}
+/****************************end of admin search**************************/
+
+
+/****************************start of admin NAVIGATION CONTAINER**************************/
+#adminNavigationButtons{
+    overflow: hidden;
+    margin-top:2%;
+}
+#accordian {
+    background: #004050;
+    width: 100%;
+    //margin: 100px auto 0 auto;
+    color: white;
+    /*Some cool shadow and glow effect*/
+/*    box-shadow: 
+        0 5px 15px 1px rgba(0, 0, 0, 0.6), 
+        0 0 200px 1px rgba(255, 255, 255, 0.5);*/
+}
+#accordian ul{
+ padding:0px;
+}
+/*heading styles*/
+#accordian h3 {
+    font-size: 12px;
+    line-height: 34px;
+    padding: 0 10px;
+    cursor: pointer;
+    /*fallback for browsers not supporting gradients*/
+    background: #003040; 
+    background: linear-gradient(#003040, #002535);
+    margin:0px;
+}
+/*heading hover effect*/
+#accordian h3:hover {
+    text-shadow: 0 0 11px rgba(255, 255, 255, 0.7);
+}
+/*iconfont styles*/
+#accordian h3 span {
+    font-size: 16px;
+    margin-right: 10px;
+}
+/*list items*/
+#accordian li {
+    list-style-type: none;
+}
+/*links*/
+#accordian ul ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 11px;
+    line-height: 27px;
+    display: block;
+    padding: 0 15px;
+    /*transition for smooth hover animation*/
+    transition: all 0.15s;
+}
+/*hover effect on links*/
+#accordian ul ul li a:hover {
+    background: #003545;
+    border-left: 5px solid lightgreen;
+}
+/*Lets hide the non active LIs by default*/
+#accordian ul ul {
+    display: none;
+}
+#accordian ul ul li.active{
+   background: #002732;
+    border-left: 5px solid lightgreen;
+    border-right: 5px solid lightgreen;
+}
+#accordian li.active ul {
+    display: block;
+}
+
+.disabled{
+    cursor:default !important;
+    pointer-events: none;
+}
+/****************************end of admin NAVIGATION CONTAINER**************************/
+
+
+/*********************************************************************ADMIN TOP NAVBAR**********************************************************************************/
+
+#navbarTopped{
+    border:0;
+    width:100%;
+    padding:0px;
+    margin:0px;
+    background-color:#358AD4;
+}
+/*******************************************************************ADMIN MAIN LAYOUT************************************************************************************/
+#adminlayout_main{
+    background:rgba(255,255,255,.70);
+    margin:0px;
+    padding:0%;
+
+    /*border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -o-linear-border-radius: 0.5em;
+    -ms-linear-border-radius:0.5em; */
+}
+/*******************************************************************************************************************************************************/

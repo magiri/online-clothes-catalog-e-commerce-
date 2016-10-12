@@ -1,0 +1,253 @@
+
+
+
+/***************************************properties start of top bg*****************************************************/
+#properties-top-bg {
+    min-height: 132px;
+    max-height: 100%;
+    background: url(../genimages/bg/CAM00419.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+/***************************************properties end of top bg**************************************************/
+
+/***************************************properties-top-categories navigation start**************************************************/
+.properties-top-categories {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-image: linear-gradient(#ffffff, #f2f2f2);
+    border-color: -moz-use-text-color -moz-use-text-color #e5e5e5;
+    border-image: none;
+    border-radius: 0;
+    border-style: none none solid;
+    border-width: 0 0 1px;
+    padding-bottom: 0.3%;
+    margin-bottom: 3%;
+    opacity: 0.95;
+}
+.properties-top-categories ul.nav.navbar-nav li {
+    border-left: 1px solid #cccccc;
+    margin-top: 5%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+.properties-top-categories ul.nav.navbar-nav li a {
+    color: #a5a5a5;
+    font-size: 0.8em;
+    font-weight: 600;
+    height: 7px !important;
+    padding-top: 3.5%;
+    text-decoration: none;
+    -moz-transition: all 0.5s ease 0s;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+    text-transform: capitalize;
+}
+.properties-top-categories ul.nav.navbar-nav li:last-child > a {
+    border-right: medium none;
+}
+.properties-top-categories ul.nav li:first-child >a:hover {
+    color: #a5a5a5;
+}
+
+.properties-top-categories ul.nav li a:hover {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #00a1fe;
+    transition: all 0.1s ease 0s;
+}
+.properties-top-categories ul.nav.navbar-nav li.active > a:hover {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #00a1fe;
+}
+.properties-top-categories ul.nav.navbar-nav > .active > a, .top-header ul.nav.navbar-nav > .active > a:hover, .top-header ul.nav.navbar-nav > .active > a:focus {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #00a1fe;
+}
+
+.properties-top-categories .form-control {
+    max-height: 30px;
+    background-color: #0075B2;
+    border: 0 none;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-border-radius: 0;
+    color: #000000;
+    font-weight: normal;
+}
+.properties-top-categories .form-control:focus,properties-top-categories .form-control:active,properties-top-categories .form-control:hover{
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    border: 1.5px solid #19B1FF;
+}
+/***************************************properties-top-categories navigation end**************************************************/
+
+
+/**************************************************************************start of properties listings*****************************************************************************/
+
+.block-property {
+    background-color: #ffffff;
+    margin-top: 6%;
+
+}
+/*.block-property:hover {
+    opacity: .9;
+    
+}*/
+.block-property-content {
+    padding: 7% 3% 7% 3%;
+    margin-bottom:3%;
+}
+.block-property-content h4 a {
+    text-decoration: none;
+    color: #000000;
+}
+.block-property-content h4 a:hover {
+    color: #00a7fe;
+}
+.block-property-feature {
+    font-size: 11px;
+    margin-top: 3%;
+}
+.block-property-content h4 {
+    padding-left: 3%;
+    margin-bottom: 7%;
+}
+.block-property-button {
+    margin-top: 5%;
+    border-top: 1px solid #D8D8D8;
+    padding-top: 3%;
+}
+.block-property-f-button {
+    margin-top: 1%;
+    // padding-top: 3%;
+}
+.block-property-button .btn-mine:hover {
+    color: #ffffff;
+}
+.block-property .row-fluid .badges {
+    background: none repeat scroll 0 0 whitesmoke;
+    border-radius: 100%;
+    font-weight: 700;
+    height: 50px;
+    left: 36%;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    top: -9px;
+    width: 50px;
+    color: #0096E4;
+}
+/*.block-property .row-fluid .badges:hover {
+    color: #0096E4;
+}*/
+
+/******************************************************************************end of properties listings*************************************************************************/
+
+/***************************************************************view one starts here****************************************************************************************/
+#view-one{
+    background-color: #ffffff;
+    margin-top: 6%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    border-radius: 0.3em;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    overflow:hidden;
+
+}
+#view-one:hover {
+    transform:none;
+
+}
+#view-one .block-property-content-view {
+    padding: 7% 3% 7% 3%;
+    margin-bottom:3%;
+}
+#view-one .block-property-content-view h4 a {
+    text-decoration: none;
+    color: #000000;
+}
+#view-one .block-property-content-view h4 a:hover {
+    color: #00a7fe;
+}
+
+#view-one .property-f-feature {
+    margin-top: 0;
+        font-size: 11px;
+
+}
+#view-one .block-property-content-view h4 {
+    padding-left: 3%;
+   // margin-bottom: 7%;
+}
+#view-one .block-property-button {
+    margin-top: 5%;
+    border-top: 1px solid #D8D8D8;
+    padding-top: 3%;
+}
+#view-one .block-property-f-button {
+    margin-top: 1%;
+    // padding-top: 3%;
+}
+.block-property-button .btn-mine:hover {
+    color: #ffffff;
+}
+.block-property-p {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.block-property-p-info {
+    background: #4c3d00;
+    color: #f2f2f2;
+    padding: 5%;
+    -moz-border-radius: 0.3em;
+    -webkit-border-radius: 0.3em;
+    border-radius: 0.3em;
+}
+
+
+.property-contacts {
+    //background: #f2f2f2;
+}
+.property-contacts-act {
+    padding: 2%;
+}
+
+.property-enquire {
+    //background: #f2f2f2;
+    margin-top: 3%;
+   // text-align: center;
+}
+.property-enquire-act {
+    padding: 2%;
+}
+
+.property-location-desc {
+    padding-top: 3%;
+}
+
+.property-units-image {
+    background: #f2f2f2;
+}
+
+.additional-data{
+   // padding-top:3%;
+}
+/*#view-one .block-property .row-fluid .badges {
+    background: none repeat scroll 0 0 whitesmoke;
+    border-radius: 100%;
+    font-weight: 700;
+    height: 50px;
+    left: 36%;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    top: -9px;
+    width: 50px;
+    color: #0096E4;
+}*/
+/****************************************************************view one ends here***************************************************************************************/

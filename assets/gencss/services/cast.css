@@ -1,0 +1,24 @@
+contentz{
+margin-right: 10%;
+margin-left: 10%;
+}
+.right-content{
+color: #151515;
+float:  left;
+margin-right: 10%;
+margin-left: 10%;
+}
+.cebter-content{
+ float: left;
+border-left:  solid thin black;
+border-right: solid thin black;
+color: #3e8f3e;
+margin-right: 10%;
+margin-left: 10%;
+}
+.left-content{
+color: pink;
+margin-right: 10%;
+margin-left: 10%;
+}
+

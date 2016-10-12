@@ -1,0 +1,64 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-06-01 20:57:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\faithknitts\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-06-01 20:57:25 --> Module controller failed to run: home/pagess
+ERROR - 2015-06-01 20:57:25 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:25 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:25 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:25 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:25 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:26 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:27 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:27 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:27 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\faithknitts\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-06-01 20:57:40 --> Module controller failed to run: home/pagess
+ERROR - 2015-06-01 20:57:40 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:41 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:57:42 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\faithknitts\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-06-01 20:58:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\faithknitts\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-06-01 20:58:47 --> Module controller failed to run: home/pagess
+ERROR - 2015-06-01 20:58:47 --> Module controller failed to run: home/pagess
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:47 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:48 --> 404 Page Not Found --> custompage
+ERROR - 2015-06-01 20:58:49 --> 404 Page Not Found --> custompage

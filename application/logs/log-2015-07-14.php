@@ -1,0 +1,111 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-14 01:29:36 --> 404 Page Not Found --> custompage
+ERROR - 2015-07-14 01:29:39 --> 404 Page Not Found --> custompage
+ERROR - 2015-07-14 02:06:53 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/controllers/products.php 190
+ERROR - 2015-07-14 02:06:55 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/controllers/products.php 192
+ERROR - 2015-07-14 02:06:55 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/views/details.php 20
+ERROR - 2015-07-14 02:06:55 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/views/details.php 24
+ERROR - 2015-07-14 02:06:55 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/views/details.php 25
+ERROR - 2015-07-14 02:06:55 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/modules/products/views/details.php 50
+ERROR - 2015-07-14 07:57:15 --> 404 Page Not Found --> custompage
+ERROR - 2015-07-14 07:57:50 --> 404 Page Not Found --> custompage/index
+ERROR - 2015-07-14 12:27:10 --> 404 Page Not Found --> custompage
+ERROR - 2015-07-14 13:35:11 --> 404 Page Not Found --> custompage
+ERROR - 2015-07-14 13:35:11 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:11 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Trying to get property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 114
+ERROR - 2015-07-14 13:35:12 --> Severity: Warning  --> Attempt to assign property of non-object /home/faithkni/mywebsites/application/core/MY_Model.php 121
+ERROR - 2015-07-14 13:35:12 --> Severity: Notice  --> Undefined property: stdClass::$price /home/faithkni/mywebsites/application/modules/products/views/details.php 25
+ERROR - 2015-07-14 18:29:43 --> 404 Page Not Found --> custompage
